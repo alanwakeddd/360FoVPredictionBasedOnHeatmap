@@ -10,9 +10,8 @@ Project Team 1 of ECE6123- Image and Video Processing (Spring 2019) – NYU
 <br />
 We treat FOV prediction as a sequence to sequence problem. Using heatmap of 10 secs as the input, then predicting the 
 heatmap of future ten secs.
-</ br>
 we use the dataset of Shanghai to make the prediction. For Convlstm model we use the code from Chenge Li.
-
+<br />
 https://github.com/ChengeLi/360FoV
 <br />
 Use shanghai factory method in data_provider/npz_builder.py to convert the Shanghai dataset to certain input type for predrnn++.
