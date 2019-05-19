@@ -5,4 +5,4 @@ Team Member:
 Tianfei Song (N)\n
 Meijuan Wang (N15457318)\n
 Bohan Zhang (N13992422)\n
-We treat FOV prediction as a sequence to sequence problem. Using heatmap of 10 secs as the input, then predicting the heatmap of future ten secs
+    We treat FOV prediction as a sequence to sequence problem. Using heatmap of 10 secs as the input, then predicting the heatmap of future ten secs
